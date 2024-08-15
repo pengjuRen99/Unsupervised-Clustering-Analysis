@@ -1,4 +1,4 @@
-from ptsdae.model import predict, train
+from sdae.model import predict, train
 import torch
 from torch.utils.data import TensorDataset
 from unittest.mock import Mock
